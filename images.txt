@@ -1,1 +1,1 @@
- registry.k8s.io/sig-storage/nfs-provisioner:v4.0.8
+docker.elastic.co/elasticsearch/elasticsearch:7.17.3
