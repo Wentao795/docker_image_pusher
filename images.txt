@@ -1,1 +1,1 @@
-quay.io/kuberay/operator:v1.2.2
+rayproject/ray:2.9.0
