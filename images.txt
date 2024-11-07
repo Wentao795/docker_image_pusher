@@ -1,1 +1,1 @@
-docker.elastic.co/elasticsearch/elasticsearch:7.17.3
+quay.io/kuberay/operator:v1.2.2
