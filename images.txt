@@ -1,1 +1,1 @@
-rayproject/ray:2.9.0
+rayproject/ray-ml:2.2.0-gpu
