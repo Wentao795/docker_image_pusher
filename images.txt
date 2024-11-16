@@ -1,1 +1,1 @@
-rayproject/ray-ml:2.2.0-gpu
+quay.io/kuberay/operator:v1.2.0
