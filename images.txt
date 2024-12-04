@@ -1,2 +1,1 @@
-kubernetesui/metrics-scraper:v1.0.8
-kubernetesui/dashboard:v2.7.0
+timonwong/prometheus-webhook-dingtalk:v2.1.0
