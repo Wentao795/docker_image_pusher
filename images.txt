@@ -1,1 +1,1 @@
-quay.io/ceph/ceph:v19.2
+ubuntu:22.04
