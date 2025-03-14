@@ -1,1 +1,2 @@
 ubuntu:22.04
+pytorch/pytorch:2.1-gpu-py38-cu118-ubuntu22.04
