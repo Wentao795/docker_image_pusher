@@ -1,3 +1,3 @@
 ubuntu:22.04
 python:alpine3.19
-pytorch/pytorch:2.1.0-gpu-py3.10-cu118-ubuntu22.04
+bytez/hachiml_tinyllama2-jp-122m-flashattention2:latest
