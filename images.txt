@@ -1,2 +1,3 @@
 ubuntu:22.04
 python:alpine3.19
+pytorch:2.1-gpu-py38-cu118-ubuntu22.04
