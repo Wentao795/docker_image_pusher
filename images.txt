@@ -2,3 +2,4 @@ ubuntu:22.04
 python:alpine3.19
 pytorch/pytorch:2.1.0-cuda11.8-cudnn8-devel
 ghcr.io/remsky/kokoro-fastapi-gpu:v0.2.2 
+pytorch/pytorch:2.5.1-cuda11.8-cudnn9-devel
