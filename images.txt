@@ -1,1 +1,1 @@
-docker pull pedi0318/cosyvoice:v2.5
+pedi0318/cosyvoice:v2.5
