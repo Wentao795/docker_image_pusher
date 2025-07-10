@@ -1,1 +1,1 @@
-pedi0318/cosyvoice:v2.5
+hewenyulucky/cosyvoice:20250627021423
