@@ -1,1 +1,1 @@
-hewenyulucky/cosyvoice:20250627021423
+marcosremar/cosyvoice2-runpod:latest
