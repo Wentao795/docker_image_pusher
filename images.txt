@@ -1,1 +1,1 @@
-marcosremar/cosyvoice2-runpod:latest
+qwenllm/qwen-omni:2.5-cu121
