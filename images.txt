@@ -1,1 +1,1 @@
-pedr/minicpm-o:latest
+wind8sun/minicpm:latest
