@@ -1,1 +1,1 @@
-qwenllm/qwen-omni:2.5-cu121
+pedr/minicpm-o:latest
