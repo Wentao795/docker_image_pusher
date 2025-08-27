@@ -1,1 +1,1 @@
-wind8sun/minicpm:latest
+qwenllm/qwen-omni:2.5-cu121
